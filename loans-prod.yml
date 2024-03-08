@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 loans:
-  message: "Welcome to CreateIQBank loans related prod APIs "
+  message: "Welcome to CreateIQBank loans related production APIs "
   contactDetails:
     name: "Tom Harald - Product Owner"
     email: "tom@eazybank.com"
