@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to CreateIQ Bank accounts related Prod APIs"
+  contactDetails:
+    name: "Tom Frank - Product Owner"
+    email: "tom@createiq.com"
+  onCallSupport:
+    - (444) 555-1234
+    - (444) 523-1345

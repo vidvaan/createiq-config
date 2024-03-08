@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+loans:
+  message: "Welcome to Create IQ bank loans related local APIs"
+  contactDetails:
+    name: "Harry lenard"
+    email: "harry@createiqbank.com"
+  onCallSupport:
+    - (612) 419-422
+    - (613) 419-421

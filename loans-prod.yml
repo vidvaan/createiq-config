@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+loans:
+  message: "Welcome to CreateIQBank loans related prod APIs "
+  contactDetails:
+    name: "Tom Harald - Product Owner"
+    email: "tom@eazybank.com"
+  onCallSupport:
+    - (517) 432-2356
+    - (886) 564-8721
+

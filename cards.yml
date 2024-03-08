@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to Create IQ bank cards related local APIs"
+  contactDetails:
+    name: "Phal lenard"
+    email: "phal@createiqbank.com"
+  onCallSupport:
+    - (412) 419-422
+    - (413) 419-421
