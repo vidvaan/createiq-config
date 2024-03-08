@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to CreateIQ Bank accounts related local APIs"
   contactDetails:
     name: "Jhon Doe - Developer"
-    email: "{cipher}9df9f4e140f03b576cdd7e40dfb74df0f8e6c518641f84ed3f148da416b1298da73c9529905742a4e40619c084d9b074"
+    email: "{cipher}b1aeb099976eedd83cdc74b92ee496958e249644df38dae5c301f0430d1303f681ceb5fbb0bd68cbc6cfe034a6ccadc8"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
