@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to CreateIQ Bank accounts related local  APIs"
+  message: "Welcome to CreateIQ Bank accounts related local docker  APIs"
   contactDetails:
     name: "Jhon Doe - Developer"
     email: "{cipher}b1aeb099976eedd83cdc74b92ee496958e249644df38dae5c301f0430d1303f681ceb5fbb0bd68cbc6cfe034a6ccadc8"
