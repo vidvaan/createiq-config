@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to CreateIQ Bank accounts related Prod APIs"
+  message: "Welcome to CreateIQ Bank accounts related production APIs"
   contactDetails:
     name: "Tom Frank - Product Owner"
     email: "tom@createiq.com"
